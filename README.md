@@ -1,6 +1,6 @@
 # Resume Website 
 
-This project is a single-page resume website built using HTML and CSS
+This project is a single-page resume website built using HTML
 
 ## Project Overview
 
@@ -16,8 +16,8 @@ The resume website includes the following sections:
 
 ## Technologies used:
 
-- HTML5
-- Vanilla CSS
+ - HTML5 only
+ - No CSS
 
 ## Project Structure
 
@@ -27,6 +27,7 @@ resume-website/
 ├── README.md
 └── screenshots/
     └── resume-preview.png
+
 
 ## How to Run the Project
 
