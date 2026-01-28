@@ -40,4 +40,4 @@ No additional setup is required.
 
 ## Screenshots
 
-- resume-preview.png
+![Resume Preview](screenshots/resume-preview.png)
